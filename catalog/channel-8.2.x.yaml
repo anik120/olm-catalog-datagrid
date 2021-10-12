@@ -1,0 +1,8 @@
+---
+entries:
+- name: datagrid-operator.v8.2.3
+- name: datagrid-operator.v8.2.4
+  replaces: datagrid-operator.v8.2.3
+name: 8.2.x
+package: datagrid
+schema: olm.channel
